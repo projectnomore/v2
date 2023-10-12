@@ -1,2 +1,2 @@
-# v2
-v2 testing, betas, and more
+# project no more v2
+we're back and we're awesome.
