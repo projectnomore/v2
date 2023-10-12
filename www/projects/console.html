@@ -1,0 +1,8 @@
+<html>
+  <h1>Console</h1>
+  <p>Drag the link below into your bookmarks bar and then click it to run.</p><br>
+  <a href="javascript:(function() {  var url = 'https://raw.githubusercontent.com/projectnomore/v2/stable/bookmarklets/console/bookmarklet.js';  fetch(url)    .then(response => response.text())    .then(code => {      var script = document.createElement('script');      script.textContent = code;      document.body.appendChild(script);    })    .catch(error => console.error('Error fetching bookmarklet:', error));})();">PNM Console</a><br>
+  <br>
+  <h3>Inspect Code</h3>
+  You can inspect our code on GitHub. <a href="https://github.com/projectnomore/v2/blob/stable/www/bookmarklets/2023/console/fetch.js">fetch.js (featured above)</a><a href="https://github.com/projectnomore/v2/blob/stable/bookmarklets/console/bookmarklet.js"> Bookmarklet (fetched by link above)</a>
+</html>
