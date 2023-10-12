@@ -7,3 +7,5 @@ we're back and we're awesome.
 [beta.pnmv2.pages.dev](https://beta.pnmv2.pages.dev) - rarely ever used, mostly unorganized, for beta testing under beta branch
 ## coming soon
 Coming soon - drag and drop bookmarklets! (In GitHub)
+### ATTENTION
+Images must be 550x250 or 550x220 on WWW/index.html
