@@ -1,4 +1,5 @@
 ### VERSIONS ARE LABELED BY COMMITS v2.0.x
+BUILD IS ALWAYS THE RELEASE COMMIT
 # project no more v2
 we're back and we're awesome.
 ## links
